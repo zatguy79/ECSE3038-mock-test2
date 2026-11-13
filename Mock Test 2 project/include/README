@@ -1,0 +1,1 @@
+You rub the API by using a Virutal machiine to pull the content from github and run it in a virtual envrionent. Run the board by building the file after putting your relevant information in the secrets.h folder 
